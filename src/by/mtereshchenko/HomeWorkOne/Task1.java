@@ -7,8 +7,8 @@ package by.mtereshchenko.HomeWorkOne;
   */
 public class Task1 {
     public static void main(String[] args) {
-        String combination = "777";
-        if (combination.equals("656")) {
+        String combination = "656";
+        if (combination.equals("777")) {
             System.out.println("Поздравляем, у вас джекпот!");
         }
         System.out.println("Играем дальше.");
