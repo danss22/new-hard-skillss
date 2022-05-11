@@ -8,7 +8,7 @@ public class Task7 {
             for (int j = 0; j < 7; j++) {
                 sum = i + j;
                 if (sum % 2 == 0) {
-                    System.out.print("X");
+                    System.out.print('X');
                 } else {
                     System.out.print(" ");
                 }
