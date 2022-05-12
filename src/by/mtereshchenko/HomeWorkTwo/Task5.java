@@ -9,6 +9,5 @@ public class Task5 {
             result *= i;
         }
         System.out.println(result);
-
     }
 }
