@@ -7,27 +7,25 @@ package by.mtereshchenko.HomeWorkThree;
  */
 public class WeightCalculation {
     public static void main(String[] args) {
-        weight(155,155);
+        weight(175, 175);
     }
 
     static int weight(int weight, int growth) {
         int cof = 0;
-        int a = 0;
+        int result = 0;
+        if (growth <= 165) {
+            cof = 100;
+        } else if (growth <= 175) {
+            cof = 105;
+        } else if (growth > 175) {
+            cof = 110;
+        }
+        result = growth - cof;
         if (weight == growth) {
-            System.out.print("");
+            System.out.print("Расчет идеального веса = " + result);
         } else {
             System.out.println("Вес не совпадает с ростом");
         }
-        if (growth <= 165) {
-            cof = 100;
-
-        } else if (growth <= 175) {
-            cof = 105;
-        } else {
-            cof = 110;
-        }
-        a = growth - cof;
-        System.out.println("Расчет идеального веса = " + a);
-        return a;
+        return result;
     }
 }
