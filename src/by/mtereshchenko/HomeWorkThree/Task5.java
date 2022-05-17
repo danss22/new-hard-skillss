@@ -7,12 +7,13 @@ package by.mtereshchenko.HomeWorkThree;
  */
 public class Task5 {
     public static void main(String[] args) {
-        areaSearch(1,5,5);
+        System.out.println("Площадь треугольника по формуле Герона = " + areaSearch(1, 5, 5));
     }
-    static void areaSearch (double a, double b, double c){
+
+    static double areaSearch(double a, double b, double c) {
         double p = (a + b + c) / 2;
         double semi = p * (p - a) * (p - b) * (p - c);
-        System.out.println("Площадь треугольника по формуле Герона = " + Math.sqrt(semi));
+        return Math.sqrt(semi);
     }
 
 }
