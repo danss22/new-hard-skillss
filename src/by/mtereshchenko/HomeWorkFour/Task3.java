@@ -12,7 +12,7 @@ char[] secondPrefix = {‘П’,’р’,’е’};
  */
 public class Task3 {
     public static void main(String[] args) {
-        char[] word = {'П', 'р', 'е', 'в', 'е', 'т'};
+        char[] word = {'П', 'р', 'и', 'в', 'е', 'т'};
         char[] word1 = {'П', 'р', 'е', 'в', 'е', 'т'};
         equals(word, word1);
     }
