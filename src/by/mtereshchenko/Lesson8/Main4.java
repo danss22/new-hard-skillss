@@ -19,7 +19,6 @@ public class Main4 {
                 dot++;
             }
         }
-
         return dot;
     }
 
