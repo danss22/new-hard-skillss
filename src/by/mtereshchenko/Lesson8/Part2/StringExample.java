@@ -43,5 +43,7 @@ public class StringExample {
         System.out.println(string.contains("Кат"));
         System.out.println(string.contains("тён"));
         System.out.println(string.contains("Кот"));
+
+
     }
 }
