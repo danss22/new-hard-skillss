@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8e26834-d343-4d2a-86a4-cf770aa1ef13" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_9_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_jboss_jandex_2_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_postgresql_postgresql_42_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson20/MyJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson20/Plan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson20/model/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson20/repository/CityRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson20/repository/JDBCExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson21/HibernateUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson21/Plan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson21/SessionCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson21/model/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson21/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson21/repository/CityRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson21/repository/PersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson22/MyServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson22/Plan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/resources/hibernate.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-hard-skillss.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../new-hard-skillss.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkFour/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkFour/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkFour/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkFour/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkFour/Task2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkFour/Task2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkFour/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkFour/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkFour/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkFour/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkOne/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkOne/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkOne/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkOne/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkOne/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkOne/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkOne/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkOne/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkOne/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkOne/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkThree/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkThree/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkThree/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkThree/Currency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkThree/RectangleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkThree/RectangleArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkThree/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkThree/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkThree/WeightCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkThree/WeightCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkTwo/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkTwo/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkTwo/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkTwo/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkTwo/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkTwo/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkTwo/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkTwo/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkTwo/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkTwo/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkTwo/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkTwo/Task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/HomeWorkTwo/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/HomeWorkTwo/Task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson1/Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson1/Name.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson1/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson1/Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson10/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson10/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson10/Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson10/Encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson10/InheritanceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson10/InheritanceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson10/Part3/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson10/Part3/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson10/Part3/InheritanceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson10/Part3/InheritanceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson10/Part3/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson10/Part3/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson10/Part3/OverridingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson10/Part3/OverridingExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson10/Part3/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson10/Part3/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson10/Part3/PolymorphismExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson10/Part3/PolymorphismExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson10/Part3/PolymorphizmDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson10/Part3/PolymorphizmDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson10/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson10/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson10/Person2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson10/Person2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson10/UseCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson10/UseCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson11/AbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson11/AbstractClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson11/Part2/InterfaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson11/Part2/InterfaceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson11/Part2/Interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson11/Part2/Interfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson11/Part2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson11/Part2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson11/Part3/ObjectExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson11/Part3/ObjectExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson11/Plan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson11/Plan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson12_Collections/ArrayList_VS_LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson12_Collections/ArrayList_VS_LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson12_Collections/CollectionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson12_Collections/CollectionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson12_Collections/CollectionExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson12_Collections/CollectionExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson12_Collections/CollectionExample3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson12_Collections/CollectionExample3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson12_Collections/GenericsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson12_Collections/GenericsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson12_Collections/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson12_Collections/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson12_Collections/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson12_Collections/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson12_Collections/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson12_Collections/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson12_Collections/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson12_Collections/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson12_Collections/Programm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson12_Collections/Programm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson12_Collections/SetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson12_Collections/SetExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson12_Collections/SetExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson12_Collections/SetExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson12_Collections/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson12_Collections/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson13/HomeWorkFive/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson13/HomeWorkFive/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson13/part1/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson13/part1/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson13/part1/MapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson13/part1/MapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson13/part1/MapExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson13/part1/MapExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson13/part1/MapExample3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson13/part1/MapExample3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson13/part2/Citizen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson13/part2/Citizen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson13/part2/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson13/part2/People.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson13/part3/MapExample4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson13/part3/MapExample4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson14/Plan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson14/Plan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson15/HeapStackExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson15/HeapStackExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson15/HeapStackExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson15/HeapStackExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson15/Plan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson15/Plan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson15/StringPoolExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson15/StringPoolExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson15/part2/Age.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson15/part2/Age.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson15/part2/EnumExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson15/part2/EnumExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson15/part2/Season.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson15/part2/Season.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson15/part2/StringBuilderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson15/part2/StringBuilderExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson15/part2/StringBuilderExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson15/part2/StringBuilderExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson15/part2/StringFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson15/part2/StringFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson15/part2/StringFormatExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson15/part2/StringFormatExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson16/part1/ExceptionExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson16/part1/ExceptionExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson16/part1/ExceptionExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson16/part1/ExceptionExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson16/part1/ExceptionExample3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson16/part1/ExceptionExample3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson16/part1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson16/part1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson16/part1/Plan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson16/part1/Plan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson16/part1/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson16/part1/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson16/part2/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson16/part2/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson16/part2/TryCatchFinallyExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson16/part2/TryCatchFinallyExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson16/part2/UncheckedExceptionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson16/part2/UncheckedExceptionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson16/part3/CheckedExceptionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson16/part3/CheckedExceptionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson16/part3/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson16/part3/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson16/part3/WrongAgeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson16/part3/WrongAgeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson17/AnnotationExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson17/AnnotationExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson17/part2/MultithreadingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson17/part2/MultithreadingExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson18/FunctionInterfaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson18/FunctionInterfaceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson18/Hi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson18/Hi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson18/OptionalExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson18/OptionalExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson18/Plan.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson18/Plan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson18/StreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson18/StreamExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson18/StreamExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson18/StreamExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson2/Lesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson2/Lesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson2/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson2/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson2/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson2/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson2/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson2/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson2/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson2/Main5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson2/Main6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson2/Main6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson3/BooleanAndOr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson3/BooleanAndOr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson3/Lesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson3/Lesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson3/Main10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson3/Main10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson3/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson3/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson3/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson3/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson3/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson3/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson3/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson3/Main5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson3/Main6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson3/Main6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson3/Main7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson3/Main7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson3/Main8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson3/Main8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson3/Main9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson3/Main9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson4/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson4/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson4/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson4/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson4/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson4/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson4/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson4/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson4/MainInterv.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson4/MainInterv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson4/NumberExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson4/NumberExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson4/lesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson4/lesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson5/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson5/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson5/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson5/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson5/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson5/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson5/MethodExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson5/MethodExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson5/Part2/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson5/Part2/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson5/Part2/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson5/Part2/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson5/Part2/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson5/Part2/Main5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson5/Part2/Main6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson5/Part2/Main6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson5/Part2/Main7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson5/Part2/Main7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson5/Part2/ParametersArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson5/Part2/ParametersArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson5/Part2/ReturnExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson5/Part2/ReturnExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson5/Part2/ReturnExample3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson5/Part2/ReturnExample3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson5/Part2/TernaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson5/Part2/TernaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson6/ArraysExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson6/ArraysExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson6/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson6/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson6/Part2/ArrayInitializationWithLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson6/Part2/ArrayInitializationWithLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson6/Part2/DefaultValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson6/Part2/DefaultValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson6/Part2/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson6/Part2/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson6/Part2/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson6/Part2/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson6/Part2/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson6/Part2/Main5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson6/Part2/Main6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson6/Part2/Main6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson6/Part3/Main7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson6/Part3/Main7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson6/Part3/Main8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson6/Part3/Main8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson6/Part3/RandomExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson6/Part3/RandomExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson7/InitializationArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson7/InitializationArrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson7/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson7/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson7/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson7/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson7/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson7/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson7/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson7/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson7/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson7/Main5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson7/Main5_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson7/Main5_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson7/Main6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson7/Main6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson7/Main7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson7/Main7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson7/MultidimensionalArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson7/MultidimensionalArrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson7/SortingArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson7/SortingArrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson8/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson8/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson8/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson8/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson8/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson8/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson8/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson8/Main4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson8/Part2/StringExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson8/Part2/StringExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson8/StringExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson8/StringExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson9_OOP/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson9_OOP/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson9_OOP/ConstructorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson9_OOP/ConstructorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson9_OOP/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson9_OOP/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson9_OOP/Error.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson9_OOP/Error.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson9_OOP/Jar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson9_OOP/Jar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson9_OOP/Jukebox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson9_OOP/Jukebox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson9_OOP/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson9_OOP/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson9_OOP/PrimitiveVsLinkExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson9_OOP/PrimitiveVsLinkExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson9_OOP/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson9_OOP/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/mtereshchenko/Lesson9_OOP/Student1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/by/mtereshchenko/Lesson9_OOP/Student1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2BwVrYBggE6lSlXXcmQGI5mJJFF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/IdeaProjects/new-hard-skillss"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8e26834-d343-4d2a-86a4-cf770aa1ef13" name="Changes" comment="" />
+      <created>1657817335234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657817335234</updated>
+    </task>
+    <servers />
+  </component>
+</project>
