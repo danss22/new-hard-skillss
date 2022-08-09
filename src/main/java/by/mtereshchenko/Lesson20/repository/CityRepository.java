@@ -16,7 +16,7 @@ public class CityRepository {
         // 2. Подключиться к БД: url, login, password.
         String url = "jdbc:postgresql://localhost:5432/db1";
         String login = "postgres";
-        String password = "241220_Evgenia";
+        String password = "password";
         Connection connection = DriverManager.getConnection(url, login, password);
 
         return connection;
